@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+  <!-- Define a custom theme that derives from the light Material Theme -->
+  <style name="MyCustomTheme" parent="android:Theme.Material.Light">
+
+    <!-- Override the app bar color -->
+    <item name="android:colorPrimary">@color/my_green</item>
+
+    <!-- Override the color of UI controls -->
+    <item name="android:colorAccent">@color/my_purple</item>
+
+  </style>
+</resources>

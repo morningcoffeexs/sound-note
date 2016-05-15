@@ -1,0 +1,11 @@
+D:\Projects\SoundNote\SoundNote\obj\Debug\assemblies\SoundNote.dll
+D:\Projects\SoundNote\SoundNote\obj\Debug\assemblies\Mono.Android.dll
+D:\Projects\SoundNote\SoundNote\obj\Debug\assemblies\mscorlib.dll
+D:\Projects\SoundNote\SoundNote\obj\Debug\assemblies\System.Core.dll
+D:\Projects\SoundNote\SoundNote\obj\Debug\assemblies\System.dll
+D:\Projects\SoundNote\SoundNote\obj\Debug\assemblies\System.Xml.dll
+D:\Projects\SoundNote\SoundNote\obj\Debug\assemblies\Xamarin.Android.Support.v13.dll
+D:\Projects\SoundNote\SoundNote\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+D:\Projects\SoundNote\SoundNote\obj\Debug\assemblies\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Projects\SoundNote\SoundNote\obj\Debug\assemblies\System.Runtime.Serialization.dll
+D:\Projects\SoundNote\SoundNote\obj\Debug\assemblies\System.ServiceModel.Internals.dll
